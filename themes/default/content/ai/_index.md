@@ -15,6 +15,10 @@ welcome: |
 
 Pulumi AI is an experimental feature that lets you use natural-language prompts to generate Pulumi infrastructure-as-code programs in any language. This page is a web-based version of the open-source [Pulumi AI project](https://github.com/pulumi/pulumi-ai).
 
+{{% notes type="info" %}}
+The prompts you submit and the results may be used by Pulumi to improve the results of Pulumi AI in the future.
+{{% /notes %}}
+
 Use the chat widget below to describe the infrastructure you'd like to build, making adjustments conversationally as you go. When you're done, create a new Pulumi project and deploy:
 
 1. [Install Pulumi](/docs/get-started/install)
